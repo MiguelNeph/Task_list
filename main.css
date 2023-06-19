@@ -1,0 +1,41 @@
+ul{
+    
+    box-sizing: border-box;
+    font-family: Robot, sans-serif;
+    justify-content: center;
+    text-align: left;
+    margin-left: 500px;
+
+    
+}
+
+header {
+    background-color:rgb(59, 30, 165);
+    padding: 16px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-style: italic;
+}
+
+form{
+    background-color: rgb(96, 150, 211);
+    padding: 24px 0;
+    text-align: center;
+}
+form h2{
+    margin-bottom: 16px;
+}
+
+input, button {
+    padding: 8px;
+}
+
+button {
+    background-color: rgb(9, 54, 54);
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: white
+}
